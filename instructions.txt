@@ -1,0 +1,5 @@
+For the given sentence, please write three variations of it: 
+- one where a few words are spelled incorrectly, 
+- one where some words are out of order making the sentence grammatically incorrect, 
+- and one where the sentence is overly verbose and contains additional personal information unrelated to the original sentence.
+Please give me the three sentences as a list without any numbers or bullets, and without any preamble or conclusion text.
